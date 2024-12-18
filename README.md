@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **dword32bit/dword32bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+[![Danang Tri Atmaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=dword32bit)](https://github.com/dword32bit)
