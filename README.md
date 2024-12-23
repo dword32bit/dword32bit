@@ -4,7 +4,7 @@
 
 - 🌱 Currently exploring **Kotlin, Flask, and Machine Learning.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
-- 🤔 Fun fact: I sometimes code better with coffee but debug best without it.
+- 🤔 Fun fact: **I sometimes code better with coffee but debug best without it.**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="dword32bit" /> 
