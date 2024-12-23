@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Dword32bit
 
-- 🌱 Currently exploring **Kotlin, Flask, and Machine Learning.**
+- 🌱 Currently exploring **Kotlin, Flask, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
 - 🤔 Fun fact: **I sometimes code better with coffee but debug best without it.**
 
