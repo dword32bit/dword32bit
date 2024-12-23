@@ -33,9 +33,9 @@
 ---
 
 ### 🔗 Connect with Me  
-- 🌐 Portfolio: [YourWebsite.com](https://yourwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/dword32bit](https://linkedin.com/in/dword32bit)  
-- 🐦 Twitter: [twitter.com/dword32bit](https://twitter.com/dword32bit)
+- 🌐 Portfolio: [coming soon](https://yourwebsite.com)  
+- 💼 LinkedIn: [coming soon](https://linkedin.com/in/dword32bit)  
+- 🐦 Twitter: [coming soon](https://twitter.com/dword32bit)
 
 ---
 
