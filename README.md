@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Hi there! 👋 I'm Dword32bit
+# Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
 
 - 🌱 Currently exploring **Kotlin, Flask, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
