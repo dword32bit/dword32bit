@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Dword32bit
 
 - 🌱 Currently exploring **Kotlin, Flask, and Machine Learning.**
-- 💬 Feel free to ask about **Python, JavaScript, Laravel, React, or Android Development.**
+- 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
 - 🤔 Fun fact: I sometimes code better with coffee but debug best without it.
 
 <p align="left"> 
