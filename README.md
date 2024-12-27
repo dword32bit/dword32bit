@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/dword32bit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dword32bit&show_icons=true&locale=en&layout=compact&theme=radical" alt="dword32bit" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dword32bit&show_icons=true&locale=en&theme=radical" alt="dword32bit" /> //&layout=compact
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dword32bit&show_icons=true&locale=en&theme=radical" alt="dword32bit" />
   </a>
 </div>
