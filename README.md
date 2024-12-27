@@ -39,12 +39,8 @@
 
 ---
 
-### 🔗 Connect with Me  
+### 🔗 Connect with Me
+- 📷 Instagram: [busy.shades](https://www.instagram.com/busy.shades)
 - 🌐 Portfolio: [coming soon](https://yourwebsite.com)  
-- 💼 LinkedIn: [coming soon](https://linkedin.com/in/dword32bit)  
-- 🐦 Twitter: [coming soon](https://twitter.com/dword32bit)
-
----
-
-**[dword32bit](https://github.com/dword32bit)**  
-📅 Updated on: 23/12/2024
+- 💼 LinkedIn : [coming soon](https://linkedin.com/in/dword32bit)  
+- 🐦 Twitter  : [coming soon](https://twitter.com/dword32bit)
