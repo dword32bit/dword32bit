@@ -2,9 +2,9 @@
 
 # Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
 
-- 🌱 Currently exploring **Kotlin, Flask, Machine Learning, DevSecOps, and Cyber Security.**
+- 🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
-- 🤔 Fun fact: **I sometimes code better with coffee but debug best without it.**
+- 🤔 Fun fact: **I sometimes code better with GPT :v**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="dword32bit" /> 
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 GitHub Activity
-[![Dword32bit's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dword32bit&bg_color=0f2027&color=2ec4b6&line=cbf3f0&point=ffb703&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dword32bit's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dword32bit&bg_color=0f2027&color=2ec4b6&line=cbf3f0&point=ffb703&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <p align="center">
