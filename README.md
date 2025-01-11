@@ -12,10 +12,10 @@
 
 ---
 
-### 🚀 GitHub Activity
+<!--### 🚀 GitHub Activity
 [![Dword32bit's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dword32bit&bg_color=0f2027&color=2ec4b6&line=cbf3f0&point=ffb703&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+--- -->
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=dword32bit&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dword32bit&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
