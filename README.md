@@ -4,7 +4,7 @@
 
 - 🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
-- 🤔 Fun fact: **I sometimes code better with GPT :v**
+<!-- 🤔 Fun fact: **I sometimes code better with GPT :v**-->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dword32bit&label=Profile%20views&color=blueviolet&style=flat" alt="dword32bit" /> 
