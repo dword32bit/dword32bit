@@ -2,7 +2,9 @@
 
 # Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
 
-<!-- 🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
+<!--
+<!--
+🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
 <!-- 🤔 Fun fact: **I sometimes code better with GPT :v**-->
 
@@ -35,7 +37,7 @@
   <a href="https://github.com/dword32bit">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dword32bit&theme=radical" alt="dword32bit's streak stats" />
   </a>
-</p>-->
+</p>-->-->
 
 ---
 -->
