@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Danang Tri Atmaja / dword32bit / WeirddBoy
 
-- 🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
+<!-- 🌱 Currently exploring **Python, Machine Learning, DevSecOps, and Cyber Security.**
 - 💬 Feel free to ask about **Python, Linux, Azure, or GCP**
 <!-- 🤔 Fun fact: **I sometimes code better with GPT :v**-->
 
@@ -38,7 +38,7 @@
 </p>-->
 
 ---
-
+-->
 ### 🔗 Connect with Me
 - 📷 Instagram: [busy.shades](https://www.instagram.com/busy.shades)
 - 🌐 Portfolio: [coming soon](https://yourwebsite.com)  
